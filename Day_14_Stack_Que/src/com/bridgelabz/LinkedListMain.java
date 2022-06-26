@@ -68,7 +68,14 @@ public class LinkedListMain {
         stackVariable.popPeekTillEmpty();
 
 
+        System.out.println("\n*******************Queue****************");
 
+        Queue queVariable = new Queue();
+        queVariable.enque(56);
+        queVariable.enque(30);
+        queVariable.enque(70);
+
+        queVariable.print();
 
 
 
