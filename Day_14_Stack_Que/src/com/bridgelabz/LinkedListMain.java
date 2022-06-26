@@ -64,6 +64,12 @@ public class LinkedListMain {
 
         stackVariable.print();
 
+        System.out.println();
+        stackVariable.popPeekTillEmpty();
+
+
+
+
 
 
 
