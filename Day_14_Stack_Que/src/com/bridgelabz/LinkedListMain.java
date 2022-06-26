@@ -77,6 +77,9 @@ public class LinkedListMain {
 
         queVariable.print();
 
+        queVariable.pop();
+        queVariable.print();
+
 
 
 

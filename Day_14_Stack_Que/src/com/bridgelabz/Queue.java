@@ -14,4 +14,9 @@ public class Queue<K> {
         linkedList.print();
     }
 
+    public void pop() {
+        System.out.println("\nPopped Element is : "+linkedList.head.key);
+        linkedList.pop();
+    }
+
 }
